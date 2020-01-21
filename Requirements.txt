@@ -1,0 +1,7 @@
+Modules Required for Main.py
+OS
+Shutil
+JSON
+Multiprocessing
+PyQt5
+Time
